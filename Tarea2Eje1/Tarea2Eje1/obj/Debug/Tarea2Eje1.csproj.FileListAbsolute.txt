@@ -1,0 +1,7 @@
+D:\Trabajos Josue\UPI\Programacion 2\Tarea 2\Tarea2Eje1\Tarea2Eje1\bin\Debug\Tarea2Eje1.exe.config
+D:\Trabajos Josue\UPI\Programacion 2\Tarea 2\Tarea2Eje1\Tarea2Eje1\bin\Debug\Tarea2Eje1.exe
+D:\Trabajos Josue\UPI\Programacion 2\Tarea 2\Tarea2Eje1\Tarea2Eje1\bin\Debug\Tarea2Eje1.pdb
+D:\Trabajos Josue\UPI\Programacion 2\Tarea 2\Tarea2Eje1\Tarea2Eje1\obj\Debug\Tarea2Eje1.csproj.AssemblyReference.cache
+D:\Trabajos Josue\UPI\Programacion 2\Tarea 2\Tarea2Eje1\Tarea2Eje1\obj\Debug\Tarea2Eje1.csproj.CoreCompileInputs.cache
+D:\Trabajos Josue\UPI\Programacion 2\Tarea 2\Tarea2Eje1\Tarea2Eje1\obj\Debug\Tarea2Eje1.exe
+D:\Trabajos Josue\UPI\Programacion 2\Tarea 2\Tarea2Eje1\Tarea2Eje1\obj\Debug\Tarea2Eje1.pdb
